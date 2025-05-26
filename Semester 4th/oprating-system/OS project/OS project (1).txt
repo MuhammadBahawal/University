@@ -1,0 +1,18 @@
+Project Name: Cache Memory Management (Hit or Miss) 
+
+
+cache_simulator_project/
+│
+├── main.py                       # Entry point
+├── input_manager.py              # Handles user/file input
+├── cache_simulator.py            # Core simulation engine
+├── replacement_policy.py         # LRU / FIFO policy
+├── cache_policy.py               # Direct / Set-Associative / Fully-Associative
+├── output_handler.py             # Console + File logging
+├── graph_plotter.py              # Matplotlib chart output
+├── logger.py                     # Optional debug logger
+├── utils.py                      # Helpers (timestamp, etc.)
+└── output/
+    ├── simulation_report.txt
+    ├── graph_data.csv
+    └── graph_output.png

@@ -1,0 +1,17 @@
+--- Cache Simulation Report ---
+Address: 1 => MISS
+Address: 2 => MISS
+Address: 3 => MISS
+Address: 2 => HIT
+Address: 4 => MISS
+Address: 1 => HIT
+Address: 5 => MISS
+Address: 6 => MISS
+Address: 2 => MISS
+Address: 1 => MISS
+Address: 7 => MISS
+Address: 8 => MISS
+
+Total: 12
+Hits: 2, Misses: 10
+Hit Rate: 0.17

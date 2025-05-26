@@ -1,0 +1,13 @@
+{
+  "config": {
+    "sequence": [
+      2,
+      3,
+      4,
+      6,
+      8,
+      7,
+      6
+    ],
+    "cache_size": 2,
+    "mapping": 
